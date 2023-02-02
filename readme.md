@@ -1,4 +1,2 @@
-## Quiz Template
+## Predicate logic in Lean 
 
-This contains the .devcontainer files for Codespaces and the .github files for 
-Classroom. 
